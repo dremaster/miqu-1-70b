@@ -1,3 +1,6 @@
+---
+{}
+---
 # miqu 70b
 
 First model in the potential series.
@@ -8,7 +11,7 @@ First model in the potential series.
 <s> [INST] QUERY_1 [/INST] ANSWER_1</s> [INST] QUERY_2 [/INST] ANSWER_2</s>...
 ```
 
-Beware that some backends (like llama.cpp) add bos already (by default), so you don't need prepend it yourself.
+Beware that some backends (like llama.cpp) add bos already (by default), so you don't need to prepend it yourself.
 
 ## Settings
 
